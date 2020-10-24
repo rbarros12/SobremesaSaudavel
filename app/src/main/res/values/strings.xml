@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sobremesa Saudável</string>
+    <string name="txt_botao">Decidir</string>
+    <string name="txt_inicial">Qual sobremesa saudável devo comer?</string>
+</resources>
